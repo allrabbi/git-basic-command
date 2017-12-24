@@ -1,5 +1,3 @@
-Based on 'Try Git by Codeschool' and 'Git tutorials by Hasin Hyder' tuorials, this simple git handbook had written.
-
 =============================================================================================================
 Git Basic Commandline
 =============================================================================================================
