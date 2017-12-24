@@ -1,0 +1,32 @@
+Only Basic Commands are listed here:
+
+1. $git init
+2. $git status
+3. $git add <filename>
+4. $git add -A
+5. $git reset <filename>
+6. $git commit -m "add a comment what is changed"
+7. $git diff
+8. $git add '*.txt'
+9. $git log
+10. $git show 95b56kl
+11. $git checkout 95b56kl
+12. $git reset --soft
+13. $git diff HEAD
+14. $git diff --staged 
+15. $git reset --hard
+16. $git remote add origin https://github.com/try-git/try_git.git
+17. $git remote show
+18. $git remote origin
+19. $git push -u origin master
+20. $git pull origin master
+21. $git stash
+22. $git branch clean_up
+23. $git checkout clean_up
+24. $git checkout -b <new_branch>
+25. $git rm '*.txt' 
+26. $git rm -r <folder_of_cats>
+27. $git commit -m "Remove all the cats"
+28. $git checkout master
+29. $git merge clean_up
+30. $git branch -d clean_up
